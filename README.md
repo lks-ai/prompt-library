@@ -22,7 +22,7 @@ As PrOwl evolves with updates and community contributions, expect this collectio
 Experiment with any of these prompts on our **Colab** or visit [prowl.github.io](http://prowl.github.io) for a hands-on experience.
 
 ## 📂 Explore More
-For practical examples and to see these prompts in action, browse the `examples` folder or refer to the [ProwlStack documentation](https://github.com/lks-ai/prowl/wiki/ProwlStack-Documentation).
+For practical examples and to see these prompts in action, browse the folders here or refer to the [ProwlStack documentation](https://github.com/lks-ai/prowl/wiki/ProwlStack-Documentation).
 
 ## 🌟 Contributing
 We welcome contributions! Whether it's adding new prompts, improving existing ones, or sharing your unique combinations with `ProwlStack`, your input helps PrOwl grow. Check out our contributing guidelines to get started.

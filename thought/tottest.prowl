@@ -18,4 +18,3 @@ This section provides answers for each of the questions above.
 ## Summarize
 Write a concise single paragraph which summarizes your answers above and attempts to fulfill the user request:
 {ragtot_summary(320, 0.1)}
-

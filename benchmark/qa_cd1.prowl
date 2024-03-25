@@ -1,0 +1,12 @@
+## Question
+{question}
+
+## Consideration
+{consider(20, 0.0)}
+
+## Answer
+{answer(2, 0.0)}
+
+## Double Check
+If your answer might have been incorrect, write the correct answer:
+{answer(2, 0.0)}

@@ -1,0 +1,8 @@
+## Question
+{question}
+
+## Consideration
+{consider(20, 0.0)}
+
+## Answer
+{answer(2, 0.0)}
